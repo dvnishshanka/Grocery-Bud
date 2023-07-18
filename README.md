@@ -10,8 +10,8 @@ Grocery Bud is a simple web application that allows users to create a grocery sh
 - Clear all items: Users can clear the entire list at once.
 
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
- <img src="screenshots/1.jpg" width="750">
-  <img src="screenshots/2.jpg" width="750">
+ <img src="assets/1.jpg" width="750">
+  <img src="assets/2.jpg" width="750">
 </div>
 
 **Languages**
