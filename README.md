@@ -22,4 +22,4 @@ Grocery Bud is a simple web application that allows users to create a grocery sh
 
 **URL**
 
-grocery-bud.pages.dev
+[grocery-bud.pages.dev/](https://grocery-bud.pages.dev/)https://grocery-bud.pages.dev/
